@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **INFO_623604_COMERCIALIZACION_DIGITAL_TURISMO**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/INFO_623604_COMERCIALIZACION_DIGITAL_TURISMO/](https://ecored-sena.github.io/INFO_623604_COMERCIALIZACION_DIGITAL_TURISMO/)
 
 #
